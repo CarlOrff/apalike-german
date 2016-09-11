@@ -1,4 +1,4 @@
-# The `apalike-german` package
+# The `apalike-german` package: an author year style for BibTeX
 
 ## Objective
 
@@ -29,7 +29,7 @@ The dots are kept, but only four digits are allowed!
 
 Best is to use the [GitHub tracker](https://github.com/CarlOrff/apalike-german).
 
-Or visit me on [my website and use the comment function](https://ingram-braun.net/public/programming/tex/apalike-german-bst-bibtex-bibliography-style) there.
+Or visit me on [my website and use the comment function](https://ingram-braun.net/public/programming/tex/apalike-german-bst-bibtex-bibliography-author-date-style) there.
 
 ## Copyright
 
