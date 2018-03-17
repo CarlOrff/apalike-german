@@ -34,7 +34,7 @@ Or visit me on [my website and use the comment function](https://ingram-braun.ne
 ## History
 
  - 11-sep-2016: Original version by Ingram Braun
- - 17-mar-2018: Macro `mar` bug fixed.
+ - 17-mar-2018: Macro `mar` bug fixed ([Issue #1](https://github.com/CarlOrff/apalike-german/issues/1)).
 
 ## Copyright
 
