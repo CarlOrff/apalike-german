@@ -3,7 +3,8 @@
 % This is a copy of apalike.bst 0.99a with German localization.
 %
 % History:
-%   11-sep-2016: Original version by Ingram Braun (https://ingram-braun.net/)
+%   11-sep-2016: Original version by Ingram Braun (https://ingram-braun.net/).
+%   17-mar-2018: Macro "mar" bug fixed.
 %
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
@@ -764,7 +765,7 @@ MACRO {jan} {"Januar"}
 
 MACRO {feb} {"Februar"}
 
-MACRO {mar} {"M\"{a}rz"}
+MACRO {mar} {"M\^^b{a}rz"}
 
 MACRO {apr} {"April"}
 

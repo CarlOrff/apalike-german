@@ -1,4 +1,4 @@
-# The `apalike-german` package: an author year style for BibTeX
+﻿# The `apalike-german` package: an author year style for BibTeX
 
 ## Objective
 
@@ -29,11 +29,16 @@ The dots are kept, but only four digits are allowed!
 
 Best is to use the [GitHub tracker](https://github.com/CarlOrff/apalike-german).
 
-Or visit me on [my website and use the comment function](https://ingram-braun.net/public/programming/tex/apalike-german-bst-bibtex-bibliography-author-date-style) there.
+Or visit me on [my website and use the comment function](https://ingram-braun.net/public/programming/tex/apalike-german-bst-bibtex-bibliography-author-date-style#ib_campaign=$apalike-german&ib_medium=repository&ib_source=readme) there.
+
+## History
+
+ - 11-sep-2016: Original version by Ingram Braun
+ - 17-mar-2018: Macro `mar` bug fixed.
 
 ## Copyright
 
-� 2016 by [Ingram Braun](https://ingram-braun.net/), 1986--2010 by Oren Patashnik.
+© 2016–2018 by [Ingram Braun](https://ingram-braun.net/#ib_campaign=$apalike-german&ib_medium=repository&ib_source=readme), 1986–2010 by Oren Patashnik.
 
 ## License
 
