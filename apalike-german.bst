@@ -5,6 +5,7 @@
 % History:
 %   11-sep-2016: Original version by Ingram Braun (https://ingram-braun.net/).
 %   17-mar-2018: Macro "mar" bug fixed.
+%   30-dec-2022: Project URL renewed.
 %
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
